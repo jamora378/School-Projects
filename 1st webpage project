@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>A Casual gamer for the average player</title>
+</head>
+<body>
+	<header>
+		<h1>Jose's Quick Player Bits</h1>
+	</header>
+	<section>
+		<h3>Bits for thought</h3>
+	<p>
+		<img src="gamingpose.jpg" alt="Picture of a casual gamers sharing thoughts and resources" /> 
+	</p>
+	
+	<p>With the realm of gaming that is changing by the day whether it be console gaming to pc IGN holds pretty much 
+	the most recent trends of gaming.</p>
+	<nav>
+		<ul>
+			<li> <a href="https://www.ign.com">IGN Homepage</a></li>
+		</ul>
+	</nav>
+	<p>If your not sure which console to start at you can always watch videos on their website that consists of
+		reviews and playthroughs</p>
+	<nav>
+		<ul>
+			<li> <a href="https://www.ign.com/video">IGN Videos</a></li>
+		</ul>
+	</nav>
+	<p>If gaming isn't your thing but you've seen a few of their tv or movie reviews on social media, you can browse
+		their library of tv and movie reviews.</p>
+	<nav>
+		<ul>
+			<li> <a href="https://www.ign.com/tv">IGN TV</a>
+			</li>
+            <li> <a href="https://www.ign.com/movies">IGN Movies</a></li>
+		</ul>
+	</nav>
+	</section>
+	<footer></footer>
+</body>
+</html>
